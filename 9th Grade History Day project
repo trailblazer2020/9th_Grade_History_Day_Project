@@ -7,12 +7,15 @@
 <h1>Gregor Mendel</h1>
 <title>Gregor Mendel</title>
 <ul class="topnav" id="myTopnav">\
-    <li><a href="#home">Home</a></li>
+<nav>
+   <li><a href="Who was Gregor Mendel.html">Who was Gregor Mendel</a></li>
+  <li><a href="Mendel's first hereditary experiments.html">Mendel's first hereditary experiments</a></li>
+  <li><a href="Mendel's heredity theories.html">Mendel's heredity theories</a></li>
+  <li><a href="Mendel's legacy on modern genetics.html">Mendel's legacy on modern genetics</a></li>
+  <li><a href="Work Cited.html">Work Cited</a></li>
 </ul>
-<li><a href="#Who whas Gregor Mendel">Who was Gregor Mendel</a></li>
-  <li><a href="#Gregor Mendel first heredity experiment">Gregor Mendel First Hereditary Experiment</a></li>
-  <li><a href="#Gregor Mendel Hereditary Theory">Gregor Mendel Hereditary Theory</a></li>
-  <li><a href="#Gregor Mendel Legacy on Genetics">Gregor Mendel Legacy on Genetics</a></li>
+</nav>
+
     <a href="javascript:void(0);" onclick="myFunctiont()">&#9776;</a>
     </body>
 </html>
