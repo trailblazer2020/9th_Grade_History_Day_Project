@@ -1,4 +1,4 @@
-  <html>
+<html>
 <head>
 <title>Vocabulary</title>
 <meta charset="utf-8">
@@ -6,14 +6,24 @@
 <body>
 <ul>
 <li>allele- one of two or more alternate forms of a gene </li>
-<li>dominant-heritable characteristics that are expressed in an offspring when inherited by a parent</li>
-<li>genetics-study of genes</li>
-<li>genotype-part of the genetic makeup which determines a specific characteristic</li>
-<li>heredity-the passing of traits from parent to offspring</li>
-<li>hybrid-offspring of two different species</li>
-<li>phenotype-set of noticable characteristics of an individual</li>
-<li>recessive-heritable characteristics that are expressed in an offspring when the trait is expressed in <strong>both</strong> parent</li>
-<li>trait-distinguishable quality</li>
+<li>blending inheritance- postulate that said inherited traits were determined randomly</li>
+<li>chromosomes- packaged structure that contains most of the DNA of a living organism</li>
+<li>complete dominance- phenotypic expression of allels are <strong>either</strong> dominant or recessive</li>
+<li>dihybrid cross- a cross involving two or more traits</li>
+<li>dominant- heritable characteristics that are expressed in an offspring when inherited by a parent</li>
+<li>gametes- sex cells</li>
+<li>genes- heritable properties that are parceled out in discrete units, independently inherited</li>
+<li>genetics- study of genes</li>
+<li>genotype- part of the genetic makeup which determines a specific characteristic</li>
+<li>heredity- the passing of traits from parent to offspring</li>
+<li>heterozygous- two alleles are different</li>
+<li>homozygous- two alleles are the same</li>
+<li>hybrid- offspring of two different species</li>
+<li>monohybrid cross- cross involving only one trait</li>
+<li>mutation- sudden changes in the patterns of inheritance</li>
+<li>phenotype- set of noticable characteristics of an individual</li>
+<li>recessive- heritable characteristics that are expressed in an offspring when the trait is expressed in <strong>both</strong> parent</li>
+<li>trait- distinguishable quality</li>
 </ul>
 </body>
 </html>
